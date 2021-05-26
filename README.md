@@ -7,7 +7,7 @@
 - 🤔 I’m a collaborative team player with excellent communication and organization skills. 
 - 💬 I'm I am looking for an agile and fast-paced work environment to apply machine learning knowledge.
 
-##Connect with me on LinkedIn
+## Connect with me on LinkedIn
  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
