@@ -8,9 +8,8 @@
 - 💬 I'm I am looking for an agile and fast-paced work environment to apply machine learning knowledge.
 
 ## Connect with me on LinkedIn
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/USERNAME"
+<a target="_blank" href="www.linkedin.com/in/laura-omofuma-10064778/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 
