@@ -5,7 +5,7 @@
 - 🌱 I’m enthusiastic about solving challenging business problems using deep learning and predictive machine learning techniques. 
 - 👯 I’ve been equipped with strong analytical and critical thinking skills and an advanced understanding of statistics and algebra. 
 - 🤔 I’m a collaborative team player with excellent communication and organization skills. 
-- 💬 I'm I am looking for an agile and fast-paced work environment to apply machine learning knowledge.
+- 💬 I'm looking for an agile and fast-paced work environment to apply machine learning knowledge.
 
 ## Connect with me on LinkedIn
 <a target="_blank" href="www.linkedin.com/in/laura-omofuma-10064778">
